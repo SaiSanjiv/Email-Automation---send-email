@@ -18,21 +18,6 @@ The workflow uses the `UiPath.Mail.Activities` package and the **Send SMTP Mail 
 
 ---
 
-## OUTPUT
-
-The automation produces the following result:
-<img width="1276" height="645" alt="image" src="https://github.com/user-attachments/assets/7c0bf2ee-a292-43a1-bad1-08923e977701" />
-
-
-* The recipient receives an email in their inbox.
-* <img width="1517" height="541" alt="image" src="https://github.com/user-attachments/assets/a947f307-39ff-4020-8808-01739913dbef" />
-
-* The email is tracked in the sender's "Sent Mail" folder.
-* <img width="1547" height="774" alt="image" src="https://github.com/user-attachments/assets/34cd3002-ae28-467e-a2fe-0322079b0ee6" />
-
-
----
-
 ## RESULT
 
 The automation successfully authenticates and communicates with the external Gmail SMTP server, done successfully.
