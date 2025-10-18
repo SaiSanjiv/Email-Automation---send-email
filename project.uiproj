@@ -1,0 +1,6 @@
+{
+  "Name": "SendMail",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
